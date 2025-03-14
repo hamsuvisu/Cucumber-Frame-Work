@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CreatioCRMCucumberFramework
+Bundle-SymbolicName: CreatioCRMCucumberFramework
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-23
+Automatic-Module-Name: CreatioCRMCucumberFramework
+Export-Package: com.creatio.crm.application.elements,
+ com.creatio.crm.application.runner,
+ com.creatio.crm.application.stepDefinitions,
+ com.creatio.crm.application.steps,
+ com.creatio.crm.framework.base,
+ com.creatio.crm.framework.db.commons,
+ com.creatio.crm.framework.utilities,
+ com.creatio.crm.framework.web.commons
